@@ -1,0 +1,23 @@
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="297mm"
+ height="210mm"
+ viewBox="0 0 297 210"
+ >
+<!--
+
+https://wall.alphacoders.com/big.php?i=790807
+
+inkscape -o /tmp/mask_nausicaa.pdf mask_nausicaa.svg
+
+ -->
+<rect x="0" y="0" width="297" height="210"
+ style="fill: #2b4e68" />
+<image xlink:href="mask_nausicaa.jpg"
+ width="286" height="161" x="5.5" y="6"
+ />
+<text style="text-anchor: middle; font-size: 24; font-family: 'CCComicrazy'; fill: white;">
+ <tspan x="148.5" y="192">Masque SVP !</tspan>
+</text>
+</svg>
