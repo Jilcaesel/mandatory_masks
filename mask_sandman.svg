@@ -1,0 +1,25 @@
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="297mm"
+ height="210mm"
+ viewBox="0 0 297 210"
+ >
+<!--
+
+https://www.cbr.com/sandman-neil-gaiman-marc-hempel-morpheus-mask/
+https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/08/Marc-Hempel-Sandman-Header.jpg
+
+inkscape -o /tmp/mask_sandman.pdf mask_sandman.svg
+
+ -->
+<image xlink:href="mask_sandman_hempel.jpg"
+ width="286" height="145" x="5.5" y="6"
+ />
+<rect x="5.5" y="150" width="286" height="54"
+ style="fill: black" />
+<text style="text-anchor: middle; font-size: 24; font-family: 'CCComicrazy'; fill: white;">
+ <tspan x="148.5" y="174">PLEASE LOOK</tspan>
+ <tspan x="148.5" y="198">REALLY COOL</tspan>
+</text>
+</svg>
