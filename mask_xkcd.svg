@@ -8,6 +8,7 @@
 <!--
 
 https://xkcd.com/2367/
+https://imgs.xkcd.com/comics/masks_2x.png
 
 inkscape -o /tmp/mask_xkcd.pdf mask_xkcd.svg
 
